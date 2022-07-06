@@ -3,7 +3,7 @@
 ```console
 (github) ahaankanaujia@README:~$ help --about
 
-Hey, I'm Ahaan, a Computer Science and Math student at the University of Illinois at Urbana-Champaign
+Hey, I'm a Computer Science and Math student at the University of Illinois at Urbana-Champaign
 
 I wish to pursue a career in the field of computer science and am interested in learning more about 
 machine learning, artificial intelligence, natural language processing, and quantitative finance
