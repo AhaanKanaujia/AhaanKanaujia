@@ -17,8 +17,7 @@ instagram: ahaan_kanaujia
 
 (github) ahaankanaujia@README:~$ help --current
 
-Data Engineer at Vibrent Health, where I develop and implement changes to cloud data pipelines
+Data Engineer at Vibrent Health, working on cloud data pipelines using Kubernetes and AWS
 
-Member of a NLP Research Group at UIUC as an Undergraduate Research Assistant, where I am working 
-on Short-Text Categorization and Keyword Extraction methods
+Member of a NLP Research Group at UIUC as an Undergraduate Research Assistant
 ```
