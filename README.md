@@ -6,7 +6,7 @@
 Hey, I'm a Computer Science and Math student at the University of Illinois at Urbana-Champaign
 
 I wish to pursue a career in the field of computer science and am interested in learning more about 
-machine learning, artificial intelligence, natural language processing, and quantitative finance
+machine learning, artificial intelligence, quantitative finance, and blockchain technology. 
 
 (github) ahaankanaujia@README:~$ help --contact
 
