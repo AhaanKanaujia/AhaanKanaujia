@@ -11,7 +11,7 @@ machine learning, artificial intelligence, quantitative finance, and blockchain 
 (github) ahaankanaujia@README:~$ help --contact
 
 website: ahaankanaujia.me
-mail: kanaujia.ahaan@gmail.com
+mail: ahaank2@illinois.edu
 linkedin: ahaan-kanaujia
 instagram: ahaan_kanaujia
 
