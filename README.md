@@ -5,7 +5,7 @@
 
 Hey, I'm a Computer Science and Math student at the University of Illinois at Urbana-Champaign
 
-I wish to pursue a career in the field of computer science and am interested in learning more about 
+Wish to pursue a career in the field of computer science and interested in learning more about 
 machine learning, artificial intelligence, quantitative finance, and blockchain technology. 
 
 (github) ahaankanaujia@README:~$ help --contact
@@ -17,7 +17,7 @@ instagram: ahaan_kanaujia
 
 (github) ahaankanaujia@README:~$ help --current
 
-Data Engineer at Vibrent Health, working on cloud data pipelines using Kubernetes and AWS
+Doing research on employing modern methods in economics and data models to analyze labor markets
 
-Member of a NLP Research Group at UIUC as an Undergraduate Research Assistant
+Software Engineer at Disruption Lab
 ```
