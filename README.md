@@ -19,5 +19,5 @@ instagram: ahaan_kanaujia
 
 Doing research on employing modern methods in economics and data models to analyze labor markets
 
-Software Engineer at Disruption Lab at Gies
+Technical Lead at Disruption Lab at Gies
 ```
