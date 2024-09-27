@@ -5,7 +5,7 @@
 
 Computer Science and Math with Statistics second major at the University of Illinois Urbana-Champaign. 🌽
 
-Wish to pursue a career in the field of computer science / math and interested in learning more about 
+Wish to pursue a career in the field of computer science/math and interested in learning more about 
 machine/deep learning, quantitative finance, and algorithms. 
 
 (github) ahaankanaujia@README:~$ help --current
