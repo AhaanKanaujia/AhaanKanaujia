@@ -3,7 +3,7 @@
 ```console
 (github) ahaankanaujia@README:~$ help --about
 
-Computer Science and Math with Statistics second major at the University of Illinois at Urbana-Champaign 🌽
+Computer Science and Math with Statistics second major at the University of Illinois Urbana-Champaign. 🌽
 
 Wish to pursue a career in the field of computer science / math and interested in learning more about 
 machine/deep learning, quantitative finance, and algorithms. 
@@ -23,7 +23,7 @@ Doing research on
 
 (github) ahaankanaujia@README:~$ help --previous
 
-Worked at Goldman Sachs (quant research), Lummus Digital (machine learning) and Vibrent Health (data engineering).
+Worked at Goldman Sachs (quant research), Lummus Digital (machine learning), Vibrent Health (data engineering).
 
 (github) ahaankanaujia@README:~$ help --contact
 
