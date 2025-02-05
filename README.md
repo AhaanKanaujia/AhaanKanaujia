@@ -11,15 +11,14 @@ machine/deep learning, quantitative finance, and algorithms.
 (github) ahaankanaujia@README:~$ help --current
 
 Taking courses studying
-  - algorithms
-  - numerical analysis
+  - numerical methods for PDEs
+  - distributed systems
   - differential equations
-  - statistical modelling
+  - real analysis
 
 Doing research on
-  - stochastic processes for cross-scale evolutionary dynamics
   - neural vocoding for speech and point cloud audio processing
-  - improving robustness of masked autoencoders to corruptions and perturbations
+  - stochastic processes for cross-scale evolutionary dynamics
 
 (github) ahaankanaujia@README:~$ help --previous
 
