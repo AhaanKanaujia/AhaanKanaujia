@@ -3,30 +3,27 @@
 ```console
 (github) ahaankanaujia@README:~$ help --about
 
-Computer Science and Math with Statistics second major at the University of Illinois Urbana-Champaign. 🌽
+Interested in quantitative finance, machine/deep learning and algorithms.
 
-Wish to pursue a career in the field of computer science/math or finance and interested in
-learning more about machine/deep learning, quantitative finance, and algorithms.
+Pursuing Master's in Mathematics of Finance from Columbia University (part time, in person). 🦁
+
+Bachelor's in Computer Science + Math and Statistics (second major) from the University of Illinois Urbana-Champaign. 🌽
 
 (github) ahaankanaujia@README:~$ help --current
 
-Taking courses studying
-  - numerical methods for PDEs
-  - distributed systems
-  - differential equations
-  - real analysis
+Working at Goldman Sachs on the Independent Price Verification of Interest Rate Derivatives team.
 
-Doing research on
-  - neural vocoding for speech and point cloud audio processing
-  - stochastic processes for cross-scale evolutionary dynamics
+Taking courses stuyding:
+  - financial risk management
+  - statistical methods in finance
 
 (github) ahaankanaujia@README:~$ help --previous
 
-Worked at Goldman Sachs (quant research), Lummus Digital (machine learning), Vibrent Health (data engineering).
+Worked at Goldman Sachs (quant research internship), Lummus Digital (machine learning), Vibrent Health (data engineering).
 
 (github) ahaankanaujia@README:~$ help --contact
 
-mail: ahaank2@illinois.edu
+mail: kanaujia.ahaan@gmail.com
 linkedin: ahaan-kanaujia
 instagram: ahaan_kanaujia
 ```
