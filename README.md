@@ -7,7 +7,7 @@ Interested in quantitative finance, machine/deep learning and algorithms.
 
 Pursuing Master's in Mathematics of Finance from Columbia University (part time, in person). 🦁
 
-Bachelor's in Computer Science + Math and Statistics (second major) from the University of Illinois Urbana-Champaign. 🌽
+Bachelor's in CS+Math and Stats (second major) from the University of Illinois Urbana-Champaign. 🌽
 
 (github) ahaankanaujia@README:~$ help --current
 
